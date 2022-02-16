@@ -1,3 +1,4 @@
 # Bootstrap Only Website
-Created a website using bootstrap v5 for learning purposes.
+Simple 1 Pager website created using bootstrap for learning purposes.
+Includes all sorts of bootstrap classes and types.
 
